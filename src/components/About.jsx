@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { CheckCircle, Users, Target, Award } from 'lucide-react';
+import { CircleCheck as CheckCircle, Users, Target, Award } from 'lucide-react';
 import Container from './ui/Container';
 import Section from './ui/Section';
 
